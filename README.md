@@ -6,6 +6,8 @@
 
  https://www.talos.dev/     
  
+ https://www.talos.dev/docs/v0.3/en/guides/getting-started
+ 
  
 ## rhcos  =   Redhat + CoreOS
  
